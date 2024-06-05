@@ -40,6 +40,6 @@
 - This bot can only Send Messages.
 - This bot can only send job notifications and only in the format shown in the screenshot above.
 - This bot **can't** do anything else: can't read messages, can't manage channels, can't send spam, etc. It can't even read it's own messages!
-- It's open source. If in doubt — read the code, ask questions, leave comments, suggest improvements.
+- It's open source. If in doubt — read the code, ask questions, leave comments, suggest improvements
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/936436/187343520-7d6374d6-f8b6-4679-a3b7-c4f2498e5cd3.png">
